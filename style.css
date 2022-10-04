@@ -1,0 +1,51 @@
+body
+.titulo-principal {
+    font-size: 40px;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    color: rgb(255, 234, 0);
+    background-color: rgb(220, 228, 245);
+
+}
+
+   background-color: purple;
+    font-size: 25px;
+
+
+p {
+    text-align: center;
+
+}
+
+b {
+    color: red;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+
+#imagemflor {
+    width: 50%;
+    border:10 px solid #CCCCCC; 
+}
+
+#flor2 {
+    width:50%
+}
+h2 {
+    color: black;
+}
+ul {
+    color: black;
+}
+
+.margarida {
+    content:🌺;
+}
+
+{
+.Cestadecafedamanha.png}
