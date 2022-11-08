@@ -1,24 +1,37 @@
-body
-.logo {
-    width: 20%;
+header {
+	background: #e8d5de;
+	padding: 20px 0;
 }
+
+.banner {
+    width: 50%;
+    border: #0b0a0a;
+}
+body {
+    background-color: rgb(180, 214, 255);
+}
+    
+.cortitulo {
+    font-size: 60px;
+    color: #e8d5de;
+    margin: 0 0;
+}
+
+body .logo {
+    width: 50%;
+}
+
 .titulo-principal {
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
     padding: 0%;
     margin: 0%;
-    color: rgb(255, 234, 0);
+    color: rgb(245, 199, 227);
     background-color: rgb(220, 228, 245);
-
 }
-
-   background-color: purple;
-    font-size: 25px;
-
 
 p {
     text-align: center;
-
 }
 
 b {
@@ -31,24 +44,40 @@ h2 {
     font-size: 50px;
 }
 
-#imagemflor {
-    width: 50%;
-    border:10 px solid #CCCCCC; 
-}
 
-#flor2 {
-    width:50%
-}
-h2 {
-    color: black;
-}
 ul {
     color: black;
 }
 
 .margarida {
-    content:🌺;
+    content: 🌺;
 }
 
-{
-.Cestadecafedamanha.png}
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+    
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: orangered;
+	text-decoration: underline;
+}
+
+h1,p {
+    padding: 10px;
+    margin: 5px;
+}
